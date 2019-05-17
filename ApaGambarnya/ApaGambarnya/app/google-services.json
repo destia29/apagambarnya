@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482770790832",
+    "firebase_url": "https://apagambarnya.firebaseio.com",
+    "project_id": "apagambarnya",
+    "storage_bucket": "apagambarnya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482770790832:android:6acb8486478ac2e8",
+        "android_client_info": {
+          "package_name": "com.example.mobile.apagambarnya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482770790832-j50pu5633aqdi4cdl98dveqoqb0mrb0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile.apagambarnya",
+            "certificate_hash": "ae033aefe75ccb3a45045fd6ac939830740bb18b"
+          }
+        },
+        {
+          "client_id": "482770790832-uia40d90ts4md9c9v0m02qoauafkk4rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKuHogwB8UMmKVpv7WXt3K3iYTy5wDss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482770790832-uia40d90ts4md9c9v0m02qoauafkk4rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

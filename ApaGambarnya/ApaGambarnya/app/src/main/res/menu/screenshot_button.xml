@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn_ss"
+        android:icon="@drawable/screenshot"
+        app:showAsAction="ifRoom"
+        android:onClick="onScreenshotAction"
+        android:title="Screenshot">
+    </item>
+
+</menu>
